@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442927749 source:c:\users\public\documents\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
+1442929491 c:\users\public\documents\heap\heap.h
+
